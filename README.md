@@ -21,7 +21,7 @@ After working with the Maria and the school board to look at the academic grades
 The overall passing number is brought down to a 64.9%.
 ##### ![alttext]( https://github.com/mbehr11/School_District_Analysis/blob/main/Resources/district%20summary.PNG) #####
 •	How is the school summary affected?
-##### ![alttext]( ##### ![alttext]( https://github.com/mbehr11/School_District_Analysis/blob/main/Resources/district%20summary.PNG) #####
+##### ![alttext]( https://github.com/mbehr11/School_District_Analysis/blob/main/Resources/district%20summary.PNG) #####
 There is no longer a correlation between budget and performance. 
 •	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 •	It does not give a true reading of how the resources and funds affect students school grades. 
