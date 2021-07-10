@@ -34,8 +34,7 @@ There is no longer a correlation between budget and performance.
 ##### ![ alttext]( https://github.com/mbehr11/School_District_Analysis/blob/main/Resources/spending_ranges.PNG) #####
 
 •	Scores by school size: This analysis further supports my conclusion above because as you can see from the image below schools that had <1000 students had the best overall passing score of 89.9
-•	##### ![alttext](
-•	https://github.com/mbehr11/School_District_Analysis/blob/main/Resources/school_size.PNG)
+•	##### ![alttext](https://github.com/mbehr11/School_District_Analysis/blob/main/Resources/school_size.PNG) #####
 •	Scores by school type;
 This continues to support my conclusion that the larger district schools do not produce the best test scores. In fact, you can see that charter schools did best with an overall passing of 87% vs the 54% in district schools.
 ##### ![ alttext]( https://github.com/mbehr11/School_District_Analysis/blob/main/Resources/school_type.PNG) #####
